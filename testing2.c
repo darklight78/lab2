@@ -1,4 +1,4 @@
-#include <stdlib.h>
+#include <stdlib.h> /* this code is my first attempt but the output not as apa yang saya nak so saya proceed dgn file baru which is testing3.c*/
 #include <unistd.h>
 #include <stdio.h>
 #include <sys/wait.h>
